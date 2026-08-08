@@ -29,4 +29,5 @@ The design adds two 4-bit binary numbers and produces:
        ▼      ▼
     SUM[3:0] COUT
 {Cout, Sum} = A + B
+<img width="1562" height="512" alt="image" src="https://github.com/user-attachments/assets/03903330-70c9-4a2b-ad87-a3a291706beb" />
 
